@@ -12,5 +12,5 @@ The video demonstrates a bot that exploits price differences between exchanges t
 
 ## What to do
 1. Click the button and watch the video. 🎬
-2. Get the repository, the code is attached.
+2. Get the repository, the code is attached (you need to add .sol extension).
 3. Run the bot and see how it rolls.
